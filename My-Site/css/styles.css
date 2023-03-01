@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #284747;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #488181;
+    font-family: 'Caladea', serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #3a969b;
+    font-family: 'Caladea', serif;
+}
+
+img {
+    margin: 0 auto;
+}
+
+.top-container {
+    background-color: #85f7ffa6;
+    position: relative;
+    padding-top: 220px;
+}
+
+.top-cloud-img {
+    position: absolute;
+    right: 350px;
+    top: 250px;
+}
+
+.bottom-cloud-img {
+    position: absolute;
+    left: 350px;
+    bottom: 450px;
+}
+
+.middle-container {
+    background-color: #caeee9;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 180px;
+    text-align: left;
+    line-height: 2;
+}
+
+.me-img {
+    width: 50%;
+    margin-top: 100px;
+}
+
+.network-img {
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+}
+
+.programming-img {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #d2dad8;
+}
+
+.contact-me {
+    padding-bottom: 20px;
+    line-height: 35px;
+    width: 50%;
+    margin: auto;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .finale {
+    margin-bottom: 0;
+    padding-top: 10px;
+  }
+
+  hr {
+    margin: 100px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 7px;
+    width: 7%;
+  }
+
+.mountain-img {
+    width: 50%;
+}
+
+.profile {
+    width: 50%;
+    margin: auto;
+    line-height: 1.5;
+}
